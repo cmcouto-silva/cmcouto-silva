@@ -10,6 +10,8 @@ Reach out to me:
 
 ## Skills
 
+mysql, postgres, matplotlib, plotly, seaborn, git
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
