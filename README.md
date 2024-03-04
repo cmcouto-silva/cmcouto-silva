@@ -1,12 +1,18 @@
-## Hi there 👋
+## Hello there!
 
-### About Me
+**I'm Cainã, a passionate data scientist from Brazil brazil** 
 
 I am a data scientist with over ten years of experience with data projects, working both in scientific research within academia, publishing papers in prestigious scientific journals, and in the industry, developing end-to-end AI products for startups and global companies. My passion for data science led me to contribute to data training programs as a professor and consultant. For more details, please see my [resume](https://cmcouto-silva.github.io/).
 
-Reach out to me:
-- LinkedIn
-- CV
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/coutosilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coutosilva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/couto-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="couto-silva" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/couto-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="couto-silva" height="30" width="40" /></a>
+<a href="https://kaggle.com/couto-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="couto-silva" height="30" width="40" /></a>
+<a href="https://instagram.com/couto-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="couto-silva" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/datargs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="datargs" height="30" width="40" /></a>
+</p>
 
 ## Skills
 
