@@ -1,6 +1,14 @@
 ## Hi there 👋
 
+### About Me
+
 I am a data scientist with over ten years of experience with data projects, working both in scientific research within academia, publishing papers in prestigious scientific journals, and in the industry, developing end-to-end AI products for startups and global companies. My passion for data science led me to contribute to data training programs as a professor and consultant. For more details, please see my [resume](https://cmcouto-silva.github.io/).
+
+Reach out to me:
+- LinkedIn
+- CV
+
+## Skills
 
 ### Languages
 
@@ -30,6 +38,8 @@ I am a data scientist with over ten years of experience with data projects, work
 ![fastapi](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+[![](https://visitor-badge.laobi.icu/badge?page_id=cmcouto-silva.cmcouto-silva)](https://visitor-badge.laobi.icu/badge?page_id=cmcouto-silva.cmcouto-silva)
 
 <!--
 **cmcouto-silva/cmcouto-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
