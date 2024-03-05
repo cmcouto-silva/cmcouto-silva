@@ -4,7 +4,7 @@
 
 I am a data scientist with over ten years of experience with data projects, working both in scientific research within academia, publishing papers in prestigious scientific journals, and in the industry, developing end-to-end AI products for startups and global companies. My passion for data science led me to contribute to data training programs as a professor and consultant. For more details, please see my [resume](https://cmcouto-silva.github.io/).
 
-<a href="https://linkedin.com/in/couto-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="couto-silva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/couto-silva" target="blank"><img align="center" src="img/linkedin.png" alt="couto-silva" height="30" width="30" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
