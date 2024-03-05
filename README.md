@@ -6,9 +6,9 @@ I have over ten years of experience with data projects, working both in scientif
 
 ### Connect with me:
 
-<a href="https://cmcouto-silva.github.io/" target="blank"><img align="center" src="img/home.png" alt="LinkedIn cmcouto-silva" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/cmcouto-silva" target="blank"><img align="center" src="img/linkedin.png" alt="LinkedIn cmcouto-silva" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/7076819/cain%c3%a3-max-couto-da-silva" target="blank"><img align="center" src="img/stackoverflow.png" alt="Stackoverflow cmcouto-silva" height="30" width="30" /></a>
+<a href="https://cmcouto-silva.github.io/" target="_blank"><img align="center" src="img/home.png" alt="LinkedIn cmcouto-silva" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/cmcouto-silva" target="_blank"><img align="center" src="img/linkedin.png" alt="LinkedIn cmcouto-silva" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/7076819/cain%c3%a3-max-couto-da-silva" target="_blank"><img align="center" src="img/stackoverflow.png" alt="Stackoverflow cmcouto-silva" height="30" width="30" /></a>
 <!-- <a href="https://www.youtube.com/@datargs" target="blank"><img align="center" src="img/youtube.png" alt="LinkedIn cmcouto-silva" height="30" width="30" /></a> -->
 
 &nbsp;
