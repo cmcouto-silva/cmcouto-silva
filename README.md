@@ -1,6 +1,6 @@
 ## Hello World!
 
-### I'm Cainã, a passionate data scientist from Brazil &nbsp; <img src="img/brazil-flag.png" width="21">
+### I'm Cainã, a passionate data scientist from Brazil &nbsp; <img src="img/brazil-flag.png" width="23">
 
 I have over ten years of experience with data projects, working both in scientific research within academia, publishing papers in prestigious scientific journals, and in the industry, developing end-to-end AI products for startups and global companies. My passion for data science led me to contribute to data training programs as a professor and consultant. For more details, please see my [resume](https://cmcouto-silva.github.io/).
 
