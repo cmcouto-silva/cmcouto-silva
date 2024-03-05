@@ -11,8 +11,6 @@ I have over ten years of experience with data projects, working both in scientif
 <a href="https://stackoverflow.com/users/7076819/cain%c3%a3-max-couto-da-silva" target="_blank"><img align="center" src="img/stackoverflow.png" alt="Stackoverflow cmcouto-silva" height="30" width="30" /></a>
 <!-- <a href="https://www.youtube.com/@datargs" target="_blank"><img align="center" src="img/youtube.png" alt="LinkedIn cmcouto-silva" height="30" width="30" /></a> -->
 
-&nbsp;
-
 ## Skills
 
 ### Languages
@@ -49,6 +47,14 @@ I have over ten years of experience with data projects, working both in scientif
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+<!--
+## Support
+
+<a href="https://www.buymeacoffee.com/cmcoutosilva"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support cmcoutosilva" /></a>
+-->
+
+
 
 <!-- [![](https://visitor-badge.laobi.icu/badge?page_id=cmcouto-silva.cmcouto-silva)](https://visitor-badge.laobi.icu/badge?page_id=cmcouto-silva.cmcouto-silva) -->
 
