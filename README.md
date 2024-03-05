@@ -1,8 +1,10 @@
 ## Hello there!
 
-**I'm Cainã, a passionate data scientist from Brazil brazil** 
+**I'm Cainã, a passionate data scientist from Brazil** <img src="img/brazil-flag.png">
 
 I am a data scientist with over ten years of experience with data projects, working both in scientific research within academia, publishing papers in prestigious scientific journals, and in the industry, developing end-to-end AI products for startups and global companies. My passion for data science led me to contribute to data training programs as a professor and consultant. For more details, please see my [resume](https://cmcouto-silva.github.io/).
+
+<a href="https://linkedin.com/in/couto-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="couto-silva" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,14 +24,14 @@ mysql, postgres, matplotlib, plotly, seaborn, git
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![R](https://img.shields.io/badge/-R%20programming-000?&logo=R&logoColor=276DC3)
-![asdfasfdasf](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![aasdfsdfgsdfg](https://img.shields.io/badge/-Bash%20scripting-000?&logo=Linux)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
+![Bash](https://img.shields.io/badge/-Shell%20scripting-000?&logo=Linux)
 
 ### Technologies
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-Cloud)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)\
 ![Databricks](https://img.shields.io/badge/-Databricks-000?&logo=Databricks)
 ![Dataiku](https://img.shields.io/badge/-Dataiku-000?&logo=Dataiku)
 ![html](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
