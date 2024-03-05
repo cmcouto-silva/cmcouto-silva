@@ -1,23 +1,19 @@
-## Hello there!
+## Hello World!
 
-#### I'm Cainã, a passionate data scientist from Brazil <img src="img/brazil-flag.png" width="20">
+### I'm Cainã, a passionate data scientist from Brazil &nbsp; <img src="img/brazil-flag.png" width="21">
 
-I am a data scientist with over ten years of experience with data projects, working both in scientific research within academia, publishing papers in prestigious scientific journals, and in the industry, developing end-to-end AI products for startups and global companies. My passion for data science led me to contribute to data training programs as a professor and consultant. For more details, please see my [resume](https://cmcouto-silva.github.io/).
+I have over ten years of experience with data projects, working both in scientific research within academia, publishing papers in prestigious scientific journals, and in the industry, developing end-to-end AI products for startups and global companies. My passion for data science led me to contribute to data training programs as a professor and consultant. For more details, please see my [resume](https://cmcouto-silva.github.io/).
 
-#### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmcouto-silva/)](https://www.linkedin.com/in/cmcouto-silva/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmcouto-silva/)](https://www.linkedin.com/in/cmcouto-silva/)
+### Connect with me:
 
-<!--
+<a href="https://cmcouto-silva.github.io/" target="blank"><img align="center" src="img/home.png" alt="LinkedIn cmcouto-silva" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/cmcouto-silva" target="blank"><img align="center" src="img/linkedin.png" alt="LinkedIn cmcouto-silva" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/7076819/cain%c3%a3-max-couto-da-silva" target="blank"><img align="center" src="img/stackoverflow.png" alt="Stackoverflow cmcouto-silva" height="35" width="35" /></a>
--->
-
+<a href="https://stackoverflow.com/users/7076819/cain%c3%a3-max-couto-da-silva" target="blank"><img align="center" src="img/stackoverflow.png" alt="Stackoverflow cmcouto-silva" height="30" width="30" /></a>
 <!-- <a href="https://www.youtube.com/@datargs" target="blank"><img align="center" src="img/youtube.png" alt="LinkedIn cmcouto-silva" height="30" width="30" /></a> -->
 
-## Skills
+&nbsp;
 
-matplotlib, plotly, seaborn, git, spark
+## Skills
 
 ### Languages
 
@@ -38,7 +34,7 @@ matplotlib, plotly, seaborn, git, spark
 ![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=postgresql)
 ![Databricks](https://img.shields.io/badge/-Databricks-000?&logo=Databricks)
 ![Dataiku](https://img.shields.io/badge/-Dataiku-000?&logo=Dataiku)
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 
 ### Top Python libraries
@@ -50,6 +46,7 @@ matplotlib, plotly, seaborn, git, spark
 ![plotly](https://img.shields.io/badge/-plotly-000?&logo=plotly)
 ![streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
 ![fastapi](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
