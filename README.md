@@ -1,6 +1,6 @@
 ## Hello World!
 
-### I'm Cainã, a passionate data scientist from Brazil &nbsp; <img src="img/brazil-flag.png" width="23">
+### I'm Cainã, a data scientist and AI engineer from Brazil &nbsp; <img src="img/brazil-flag.png" width="23">
 
 I have over ten years of experience with data projects, working both in scientific research within academia, publishing papers in prestigious scientific journals, and in the industry, developing end-to-end AI products for startups and global companies. My passion for data science led me to contribute to data training programs as a professor and consultant. For more details, please see my [resume](https://cmcouto-silva.github.io/).
 
@@ -33,20 +33,21 @@ I have over ten years of experience with data projects, working both in scientif
 ![Databricks](https://img.shields.io/badge/-Databricks-000?&logo=Databricks)
 ![Dataiku](https://img.shields.io/badge/-Dataiku-000?&logo=Dataiku)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)
 
 ### Top Python libraries
 
+![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000?&logo=LangGraph)
+![huggingface](https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface)
 ![scikit-learn](https://img.shields.io/badge/-Scikit%E2%80%93learn-000?&logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 ![numpy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 ![scipy](https://img.shields.io/badge/-SciPy-000?&logo=scipy)
 ![plotly](https://img.shields.io/badge/-plotly-000?&logo=plotly)
 ![streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
 ![fastapi](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 <!--
 ## Support
